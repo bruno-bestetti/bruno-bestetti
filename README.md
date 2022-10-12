@@ -8,7 +8,8 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="PBIX" height="50 width="60 src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg"/>
-  <img align="center" alt="SQL" height="60 width="70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
+  <img align="center" alt="SQL" height="80 width="90  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+  <img align="center" alt="SQL" height="80 width="90 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
 </div>
  
  <br>
