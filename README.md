@@ -3,15 +3,29 @@
  <div>
    <a href="https://github.com/bruno-bestetti">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-bestetti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-bestetti&layout=compact&langs_count=6&theme=tokyonight"/>
-
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="PBIX" height="50 width="60 src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg"/>
-  <img align="center" alt="SQL" height="80 width="90  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="SQL" height="80 width="90 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-bestetti&layout=compact&langs_count=6&theme=tokyonight"/>
+  
+ ### Sobre mim:
+    
+Florianopolitano, formado em Gestão Financeira.<br>
+Aos 30 anos decidi migrar para área de tecnologia.<br>
+Estudando <b>FullStack Development!</b><br> 
+Com muita criatividade quero somar experiências para desenvolver projetos!
+E para isso conto com o apoio do <b>Floripa Mais Tec - SENAI - LAB365</b> neste desafio!
+    
 </div>
  
+<div style="display: inline_block"><br>
+ 
+  <img align="center" alt="C#" height="80 width="90 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img align="center" alt="SQL" height="80 width="90 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
+ <img align="center" alt="HTML" height="80 width="90 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+ <img align="center" alt="CSS" height="80 width="90 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+ <img align="center" alt="JS" height="80 width="90 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+ <img align="center" alt="Angular" height="80 width="90 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+ 
+</div>
+    
  <br>
  
   ### Pra mais informações entre em contato nas redes abaixo!
