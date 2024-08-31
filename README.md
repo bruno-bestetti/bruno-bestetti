@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 🖖
+## Bem-vindo(a) ao meu perfil 🚀💻
 
  <div>
    <a href="https://github.com/bruno-bestetti">
@@ -7,11 +7,11 @@
   
  ### Sobre mim:
     
-Florianopolitano, formado em Gestão Financeira.<br>
+Manézinho da Ilha, <b>formado em Gestão Financeira</b>, e Técnico em Contabilidade.<br>
 Aos 30 anos decidi migrar para área de tecnologia.<br>
-Estudando <b>FullStack Development!</b><br>
+Estudando <b>Técnico em Informática para WEB</b> até 2025/2.<br>
+E para isso conto com o apoio do <b>Faculdade de Tecnologia SENAC Florianópolis</b> neste desafio!<br>
 Com muita criatividade quero somar experiências para desenvolver projetos!<br>
-E para isso conto com o apoio do <b>Floripa Mais Tec - SENAI - LAB365</b> neste desafio!<br>
     
 </div>
 
@@ -19,10 +19,11 @@ E para isso conto com o apoio do <b>Floripa Mais Tec - SENAI - LAB365</b> neste 
  
 <img align="center" alt="SQL" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
 <img align="center" alt="C#" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img align="center" alt="Java" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
 <img align="center" alt="HTML" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
 <img align="center" alt="CSS" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
 <img align="center" alt="JS" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="center" alt="Angular" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+
  
 </div>
     
